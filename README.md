@@ -1,7 +1,6 @@
 # ColDepSignalingImpact
 Collagen Deposition Impact on Intercellular Signaling in Diabetic Kidney Disease
 
-DOI to be updated.
 [![DOI](https://zenodo.org/badge/346521454.svg)](https://zenodo.org/badge/latestdoi/346521454)
 
 ## Overview to be updated
