@@ -2,7 +2,7 @@
 Collagen Deposition Impact on Intercellular Signaling in Diabetic Kidney Disease
 
 DOI to be updated.
-[![DOI](https://zenodo.org/badge/125926100.svg)](https://zenodo.org/badge/latestdoi/125926100)
+[![DOI](https://zenodo.org/badge/346521454.svg)](https://zenodo.org/badge/latestdoi/346521454)
 
 ## Overview to be updated
 This mathematical model describes the dynamic process of extracellular matrix remodeling in the vicinity of a primary tumor at the onset 
