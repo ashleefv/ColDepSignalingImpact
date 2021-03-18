@@ -13,7 +13,7 @@ Dept. of Chemical & Biological Engineering,
 University at Buffalo, The State University of New York.
 Corresponding author: A. N. Ford Versypt, ashleefv@buffalo.edu
 
-### Scripts to be Updated
+### Scripts
 #### Main file
 * CellularSignaling.m
 This is the **main** file and it contains the function calls for each of the model components. Additionally it contains the parameters used for each part of the model.
