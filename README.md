@@ -11,6 +11,7 @@ This mathematical model describes the effect of collagen deposition in the mesan
 Haryana Y. Thomas and Ashlee N. Ford Versypt, 
 Dept. of Chemical & Biological Engineering,
 University at Buffalo, The State University of New York.
+
 Corresponding author: A. N. Ford Versypt, ashleefv@buffalo.edu
 
 ### Scripts
@@ -20,6 +21,7 @@ This is the **main** file and it contains the function calls for each of the mod
 
 #### Supporting function files
 The rest of the files below are function files that are called in the main file and are not meant to be run independently.
+
 * CellularSignalingAnalytical.m
 This file contains the function for obtaining the concentration profile of the signaling molecules and is called in the main file.
 
@@ -38,6 +40,7 @@ This file contains a function that is called within the main file to obtain a co
 * thresholdwavefront.m
 This file contains the function that calculates the propagation distance of the threshold concentration.
 
-### Recommended Supplementary Package
-export_fig for exporting MATLAB figures: https://github.com/altmany/export_fig
-distinguishable_colors for obtaining a larger color scheme than the default amount given by MATLAB for the concentration profiles. https://www.mathworks.com/matlabcentral/fileexchange/29702-generate-maximally-perceptually-distinct-colors
+### Recommended Supplementary Packages
+export_fig for exporting MATLAB figures https://github.com/altmany/export_fig
+
+distinguishable_colors for obtaining a larger color scheme than the default amount given by MATLAB for the concentration profiles https://www.mathworks.com/matlabcentral/fileexchange/29702-generate-maximally-perceptually-distinct-colors
