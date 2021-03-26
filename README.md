@@ -15,7 +15,7 @@ University at Buffalo, The State University of New York.
 Corresponding author: A. N. Ford Versypt, ashleefv@buffalo.edu
 
 ### Preprint
-[![DOI](https://www.biorxiv.org/content/10.1101/2021.03.25.437068v1)
+https://www.biorxiv.org/content/10.1101/2021.03.25.437068v1
 
 ### Scripts
 #### Main file
