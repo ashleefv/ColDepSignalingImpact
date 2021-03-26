@@ -6,13 +6,16 @@ Collagen Deposition Impact on Intercellular Signaling in Diabetic Kidney Disease
 ## Overview 
 This mathematical model describes the effect of collagen deposition in the mesangial matrix on the signaling range of mesangial cells. This model consists of multiple parts: a mathematical model to describe the concentration profile of signaling molecules from the surface of the cell, an analysis of the concentration profile at the the threshold concentration to obtain its propagation distance over a period of time, and a mathematical model to describe the variation of the diffusion coefficient due to collagen deposition.
 
-## Excess Collagen Deposition During Diabetic Kidney Disease Enhances Intercellular Signaling: A Mathematical Model
+## Collagen Deposition in Diabetic Kidney Disease Boosts Intercellular Signaling: A Mathematical Model
 ### Code Authors
 Haryana Y. Thomas and Ashlee N. Ford Versypt, 
 Dept. of Chemical & Biological Engineering,
 University at Buffalo, The State University of New York.
 
 Corresponding author: A. N. Ford Versypt, ashleefv@buffalo.edu
+
+### Preprint
+[![DOI](https://www.biorxiv.org/content/10.1101/2021.03.25.437068v1)
 
 ### Scripts
 #### Main file
