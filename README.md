@@ -20,7 +20,7 @@ https://www.biorxiv.org/content/10.1101/2021.03.25.437068v1
 ### Scripts
 #### Main file
 * CellularSignaling.m
-This is the **main** file and it contains the function calls for each of the model components. Additionally it contains the parameters used for each part of the model.
+This is the **main** file and it contains the function calls for each of the model components. It contains the parameters used for each part of the model and all the plots for the intercellular singnaling paper. To update figures, refer to this file.
 
 #### Supporting function files
 The rest of the files below are function files that are called in the main file and are not meant to be run independently.
