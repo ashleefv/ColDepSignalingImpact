@@ -47,3 +47,6 @@ This file contains the function that calculates the propagation distance of the 
 export_fig for exporting MATLAB figures https://github.com/altmany/export_fig
 
 distinguishable_colors for obtaining a larger color scheme than the default amount given by MATLAB for the concentration profiles https://www.mathworks.com/matlabcentral/fileexchange/29702-generate-maximally-perceptually-distinct-colors
+
+## Acknowledgements
+This material is based upon work supported by the National Science Foundation under Grant No. 1845117/2133411 and resources from Oklahoma State University and the University at Buffalo.
